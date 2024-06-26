@@ -1,0 +1,12 @@
+user.email=gnagura@dvtsoftware.com
+user.name=GNagura
+push.autosetupremote=true
+credential.helper=store
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:GNagura/scf-config-repository.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
